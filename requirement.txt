@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+keras
+tensorflow
+yfinance
+Pillow
+requests
+streamlit
